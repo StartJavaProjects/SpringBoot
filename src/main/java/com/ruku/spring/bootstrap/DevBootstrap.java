@@ -38,7 +38,7 @@ public class DevBootstrap implements ApplicationListener<ContextRefreshedEvent> 
 		bookRepository.save(springboot);
 		
 		
-		
+		//create new object
 		Author vans = new Author("Vansa","Bean");
 		Book kap = new Book("How to save the girls ","2017","Vansa bean Battambong");
 		vans.getBooks().add(kap);
