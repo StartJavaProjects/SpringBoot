@@ -1,4 +1,4 @@
-package com.ruku.spring.controller;
+package com.ruku.spring.controllers;
 
 
 import org.springframework.stereotype.Controller;
